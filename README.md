@@ -73,11 +73,11 @@ Future Enhancements
 
 Contributing
 
--Contributions are welcome! To get started:
--Fork the repo
--Create a new project directory with structure above
--Implement your project
--Commit changes with clear message
+-Contributions are welcome! To get started:                                      
+-Fork the repo                                                           
+-Create a new project directory with structure above                   
+-Implement your project      
+-Commit changes with clear message           
 -Open a Pull Request
 
 License
